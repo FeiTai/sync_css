@@ -5,7 +5,7 @@
 
 调用:
 
-```
+```javascript
         let style = new SyncLoadCss({
             num: 20,
             src: './css/bootstrap.min.css',
